@@ -1,3 +1,144 @@
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<th colspan="2">
+<div class="fn">Lawrence Krauss</div>
+</th>
+</tr>
+<tr>
+<td colspan="2"><a class="image" href="220px-Laurence_Krauss.jpg"><img src="220px-Laurence_Krauss.jpg" srcset="220px-Laurence_Krauss.jpg" alt="Laurence Krauss.JPG" width="220" height="307" data-file-width="2794" data-file-height="3901" /></a>
+<div>Krauss at&nbsp;<a title="Ghent University" href="https://en.wikipedia.org/wiki/Ghent_University">Ghent University</a>&nbsp;in 2013</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>
+<div class="nickname">Lawrence Maxwell Krauss</div>
+<br />May 27, 1954<span class="noprint ForceAgeToShow">&nbsp;(age&nbsp;66)</span><br />
+<div class="birthplace"><a title="New York City" href="https://en.wikipedia.org/wiki/New_York_City">New York City</a>, U.S.</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category">
+<div class="hlist hlist-separated">
+<ul>
+<li>American</li>
+<li>Canadian</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Alma&nbsp;mater</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Carleton University" href="https://en.wikipedia.org/wiki/Carleton_University">Carleton University</a></li>
+<li><a title="Massachusetts Institute of Technology" href="https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology">Massachusetts Institute of Technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Known&nbsp;for</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Dark energy" href="https://en.wikipedia.org/wiki/Dark_energy">Dark energy</a></li>
+<li>Zero-energy states</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Home&nbsp;town</th>
+<td><a title="Toronto" href="https://en.wikipedia.org/wiki/Toronto">Toronto</a>,&nbsp;<a title="Ontario" href="https://en.wikipedia.org/wiki/Ontario">Ontario</a>, Canada</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Spouse(s)</span></th>
+<td>
+<div class="plainlist">
+<ul>
+<li>
+<div>Katherine Kelley</div>
+<div></div>
+<div>(<abbr title="married">m.</abbr>&nbsp;1980;&nbsp;<abbr title="divorced">div.</abbr>&nbsp;2012)</div>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li>
+<div>Nancy Dahl</div>
+&nbsp;
+<div>(<abbr title="married">m.</abbr>&nbsp;2014)</div>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Andrew Gemant Award" href="https://en.wikipedia.org/wiki/Andrew_Gemant_Award">Andrew Gemant Award</a>&nbsp;(2001)</li>
+<li><a title="Lilienfeld Prize" href="https://en.wikipedia.org/wiki/Lilienfeld_Prize">Lilienfeld Prize</a>&nbsp;(2001)</li>
+<li><a title="Science Writing Award" href="https://en.wikipedia.org/wiki/Science_Writing_Award">Science Writing Award</a>&nbsp;(2002)</li>
+<li><a title="Oersted Medal" href="https://en.wikipedia.org/wiki/Oersted_Medal">Oersted Medal</a>&nbsp;(2004)</li>
+<li><a title="Richard Dawkins Award" href="https://en.wikipedia.org/wiki/Richard_Dawkins_Award">Richard Dawkins Award</a>&nbsp;(2016)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Scientific career</strong></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category">
+<div class="plainlist">
+<ul>
+<li><a title="Theoretical physics" href="https://en.wikipedia.org/wiki/Theoretical_physics">Theoretical physics</a></li>
+<li><a title="Cosmology" href="https://en.wikipedia.org/wiki/Cosmology">Cosmology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Arizona State University" href="https://en.wikipedia.org/wiki/Arizona_State_University">Arizona State University</a></li>
+<li><a title="Australian National University" href="https://en.wikipedia.org/wiki/Australian_National_University">Australian National University</a></li>
+<li><a class="mw-redirect" title="New College of the Humanities" href="https://en.wikipedia.org/wiki/New_College_of_the_Humanities">New College of the Humanities</a></li>
+<li><a title="Yale University" href="https://en.wikipedia.org/wiki/Yale_University">Yale University</a></li>
+<li><a title="Case Western Reserve University" href="https://en.wikipedia.org/wiki/Case_Western_Reserve_University">Case Western Reserve University</a></li>
+<li><a title="Harvard University" href="https://en.wikipedia.org/wiki/Harvard_University">Harvard University</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Thesis" href="https://en.wikipedia.org/wiki/Thesis">Thesis</a></th>
+<td><a class="external text" href="http://library.mit.edu/item/000160895" rel="nofollow"><em>Gravitation and Phase Transitions in the Early Universe</em></a>&nbsp;(1982)</td>
+</tr>
+<tr>
+<th scope="row"><a title="" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
+<td><a title="Roscoe Giles" href="https://en.wikipedia.org/wiki/Roscoe_Giles">Roscoe Giles</a></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="http://krauss.faculty.asu.edu/" rel="nofollow">krauss<wbr />.faculty<wbr />.asu<wbr />.edu</a></span></td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+</br>
+
 <h2> Publications </h2>
 
 <ul>
